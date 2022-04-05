@@ -19,3 +19,9 @@ body {
     left: 450px;
     z-index: 2;
 }
+
+#minha_foto {
+    max-width: 400px;
+
+
+}
