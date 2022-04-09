@@ -24,6 +24,7 @@ body {
 
 #minha_foto {
     max-width: 380px;
+    border-radius: 30px 100px;
     position: absolute;
     display: inline-block;
     top: 150px;
@@ -50,8 +51,17 @@ body {
 }
 
 #kink_externo {
-    position: absolute;
-    top: 550px;
+    position: relative;
+    top: 1000px;
+}
+
+.article1 {
+    max-width: 60%;
+    font-size: 25px;
+    position: relative;
+    top: 500px;
+    padding-left: 20px;
+
 }
 
 
